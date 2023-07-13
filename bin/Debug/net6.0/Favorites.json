@@ -1,0 +1,80 @@
+[
+    {
+        "Id": "2078082138",
+        "Price": "$2,995/mo",
+        "UnformattedPrice": 2995,
+        "Address": "350 Judah, 350 Judah St APT 506, San Francisco, CA 94122",
+        "AddressStreet": "350 Judah St APT 506",
+        "AddressCity": "San Francisco",
+        "AddressState": "CA",
+        "AddressZipcode": "94122",
+        "Beds": 1.0,
+        "Baths": 1.0,
+        "Area": 507
+    },
+    {
+        "Id": "2078082138",
+        "Price": "$2,995/mo",
+        "UnformattedPrice": 2995,
+        "Address": "350 Judah, 350 Judah St APT 506, San Francisco, CA 94122",
+        "AddressStreet": "350 Judah St APT 506",
+        "AddressCity": "San Francisco",
+        "AddressState": "CA",
+        "AddressZipcode": "94122",
+        "Beds": 1.0,
+        "Baths": 1.0,
+        "Area": 507
+    },
+    {
+        "Id": "2080531121",
+        "Price": "$2,950/mo",
+        "UnformattedPrice": 2950,
+        "Address": "1392 27th Ave, San Francisco, CA 94122",
+        "AddressStreet": "1392 27th Ave",
+        "AddressCity": "San Francisco",
+        "AddressState": "CA",
+        "AddressZipcode": "94122",
+        "Beds": 2.0,
+        "Baths": 1.0,
+        "Area": null
+    },
+    {
+        "Id": "2068023929",
+        "Price": "$2,995+/mo",
+        "UnformattedPrice": 2995,
+        "Address": "1799 22nd Avenue - 102, 1799 22nd Ave, San Francisco, CA 94122",
+        "AddressStreet": "1799 22nd Ave",
+        "AddressCity": "San Francisco",
+        "AddressState": "CA",
+        "AddressZipcode": "94122",
+        "Beds": 2.0,
+        "Baths": 1.0,
+        "Area": null
+    },
+    {
+        "Id": "2068023929",
+        "Price": "$2,995+/mo",
+        "UnformattedPrice": 2995,
+        "Address": "1799 22nd Avenue - 102, 1799 22nd Ave, San Francisco, CA 94122",
+        "AddressStreet": "1799 22nd Ave",
+        "AddressCity": "San Francisco",
+        "AddressState": "CA",
+        "AddressZipcode": "94122",
+        "Beds": 2.0,
+        "Baths": 1.0,
+        "Area": null
+    },
+    {
+        "Id": "2068023929",
+        "Price": "$2,995+/mo",
+        "UnformattedPrice": 2995,
+        "Address": "1799 22nd Avenue - 102, 1799 22nd Ave, San Francisco, CA 94122",
+        "AddressStreet": "1799 22nd Ave",
+        "AddressCity": "San Francisco",
+        "AddressState": "CA",
+        "AddressZipcode": "94122",
+        "Beds": 2.0,
+        "Baths": 1.0,
+        "Area": null
+    }
+]
